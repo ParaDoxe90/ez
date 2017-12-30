@@ -106,7 +106,7 @@
             "96",
             "128",
             "160",
-            "192"});
+            "768"});
             this.AudioBitrateComboBox.Location = new System.Drawing.Point(205, 134);
             this.AudioBitrateComboBox.Margin = new System.Windows.Forms.Padding(8);
             this.AudioBitrateComboBox.Name = "AudioBitrateComboBox";
